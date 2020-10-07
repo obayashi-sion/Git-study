@@ -6,13 +6,13 @@
 ##### 具体的な使い方
 - Git
   - git init
-  - git addとgit diff
+  - git add, git diff
   - git commit
   - git log
 - GitとGitHub
     - git clone
 ***
 - GitとGitHub（続）
-
+  -git branch, git switch -c, git checkout -b
 
 - まとめと確認
