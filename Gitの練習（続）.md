@@ -13,6 +13,7 @@
     - git clone
 ***
 - GitとGitHub（続）
-  -git branch, git switch -c, git checkout -b
+  - git branch, git switch -c, git checkout -b
+  -
 
 - まとめと確認
