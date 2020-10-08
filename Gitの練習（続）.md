@@ -14,6 +14,9 @@
 ***
 - GitとGitHub（続）
   - git branch, git switch -c, git checkout -b
-  -
+  - git push origin 続
+  - Pull Request
+  - git switch
+  - git pull origin master
 
 - まとめと確認
